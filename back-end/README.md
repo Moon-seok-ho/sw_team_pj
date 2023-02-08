@@ -146,13 +146,21 @@ diary - 일기 수정
 
 front에서 db로 바로 쿼리 날리기
 
-서버할것: 로그만 남기기 
+서버할것: 로그만 남기기
 
 패스워드 비밀키로 넘기기
 
 (1) get
 데이터를 read 조회하는데 사용한다.
-get https://(도메인)/classes/2/students  
+get https://(도메인)/classes/2/students
 
 (2)post
 post는 create, 새로운 정보를 추가하는데 사용한다.
+
+# 황세현
+
+react, nodejs 연동 시도
+
+- 현재진행상황
+  nodejs만으로 로그인페이지, 회원가입 페이지 생성
+  세션 이용한 로그인 기능 구현
